@@ -1,4 +1,4 @@
 # The Project is under development...
 
-# bit-ch-at
+# bit-c#-at
 A chat room to communicate with people anonymously.
