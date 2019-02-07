@@ -1,5 +1,6 @@
 var app = require('http').createServer(response);
 var fs = require('fs');
+var io = require('socket.io') (app);
 
 app.listen(3000);
 console.log("App running…");
