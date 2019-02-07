@@ -1,0 +1,23 @@
+{
+  "name": "bit-ch-at",
+  "version": "1.0.0",
+  "description": "A chat room where people can communicate anonymously",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rustagishubhi/bit-ch-at.git"
+  },
+  "author": "Shubhi Rustagi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rustagishubhi/bit-ch-at/issues"
+  },
+  "homepage": "https://github.com/rustagishubhi/bit-ch-at#readme",
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  }
+}
